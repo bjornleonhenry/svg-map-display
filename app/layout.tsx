@@ -8,9 +8,9 @@ import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "SVG Map Display - Interactive Map Visualization",
+  description: "An interactive SVG map display application with theme switching, animated map elements, and responsive design for visualizing geographical data and locations.",
+  generator: "Next.js",
 }
 
 export default function RootLayout({
